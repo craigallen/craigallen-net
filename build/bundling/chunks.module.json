@@ -1,0 +1,193 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.46.0",
+  "hash": "9e8c78a9897e6dae0a8f",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\CraigAllen\\Documents\\Github\\craigallen-net\\build\\static",
+  "assetsByChunkName": {
+    "archive": "archive.module.js",
+    "archive~post": "archive~post.module.js",
+    "craigallen-net": "craigallen-net.module.js",
+    "post": "post.module.js"
+  },
+  "assets": [
+    {
+      "name": "archive.module.js",
+      "size": 74968,
+      "chunks": [
+        "archive"
+      ],
+      "chunkNames": [
+        "archive"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "archive~post.module.js",
+      "size": 122963,
+      "chunks": [
+        "archive~post"
+      ],
+      "chunkNames": [
+        "archive~post"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "craigallen-net.module.js",
+      "size": 5966281,
+      "chunks": [
+        "craigallen-net"
+      ],
+      "chunkNames": [
+        "craigallen-net"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Bold-LATIN.woff2",
+      "size": 33648,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Bold-US-ASCII.woff2",
+      "size": 22248,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Bold.woff2",
+      "size": 138872,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Medium-LATIN.woff2",
+      "size": 33232,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Medium-US-ASCII.woff2",
+      "size": 21828,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Medium.woff2",
+      "size": 137268,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-SemiBold-LATIN.woff2",
+      "size": 33456,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-SemiBold-US-ASCII.woff2",
+      "size": 22032,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-SemiBold.woff2",
+      "size": 138088,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "post.module.js",
+      "size": 31055,
+      "chunks": [
+        "post"
+      ],
+      "chunkNames": [
+        "post"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "craigallen-net": {
+      "chunks": [
+        "craigallen-net"
+      ],
+      "assets": [
+        "craigallen-net.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "craigallen-net": {
+      "chunks": [
+        "craigallen-net"
+      ],
+      "assets": [
+        "craigallen-net.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "archive": {
+      "chunks": [
+        "archive~post",
+        "archive"
+      ],
+      "assets": [
+        "archive~post.module.js",
+        "archive.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "post": {
+      "chunks": [
+        "archive~post",
+        "post"
+      ],
+      "assets": [
+        "archive~post.module.js",
+        "post.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
